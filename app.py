@@ -33,10 +33,8 @@ TU_ID     = "184344"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
-"""
+TU_INSIGHT = """Descubrí que en la región West, la categoría Furniture registra un margen negativo crítico de -10.6% con pérdidas de $-12,779 USD, afectando severamente el rendimiento de la zona. Recomiendo eliminar esta categoría en dicha región para concentrar los recursos en productos de mayor rentabilidad y así alcanzar el benchmark global del 12%."""
+
 
 # ============================================================
 # CARGAR DATOS (con cache para velocidad)
